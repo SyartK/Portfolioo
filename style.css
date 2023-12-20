@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  padding: 0;
+  margin: 0;
+}
+.d-block {
+  border-radius: 50%;
+  border: 1px solid black;
+}
+h2 {
+  text-align: center;
+}
+.container {
+  position: static;
+  list-style-type: none;
+}
